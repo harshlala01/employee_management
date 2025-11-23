@@ -56,10 +56,10 @@ http://localhost:8080
 ##  Screenshots
 
 ### 📝 Registration Page  
-![Registration Page](public/screenshots/Registration_page.png)
+![Registration Page](public/screenshots/Registration_Page.png)
 
 ### Login Page  
-![Login Page](public/screenshots/Login_page.png)
+![Login Page](public/screenshots/Login_Page.png)
 
 
 ###  Add Record  

@@ -56,22 +56,23 @@ http://localhost:8080
 ##  Screenshots
 
 ### 📝 Registration Page  
-![Registration Page](public/screenshots/registration_Page.png)
+![Registration Page](public/screenshots/Registration_page.png)
 
 ### Login Page  
-![Login Page](public/screenshots/login_Page.png)
+![Login Page](public/screenshots/Login_page.png)
 
-###  Dashboard  
-![Dashboard](public/screenshots/Dashboard.png)
 
 ###  Add Record  
 ![Add User](public/screenshots/Add_Users.png)
 
-###  Edit Record  
-![Edit User](public/screenshots/Edit_Users.png)
+###  Dashboard  
+![Dashboard](public/screenshots/Dashboard.png)
 
-###  Delete Record  
-(Add screenshot)
+###  Edit Record  
+![Edit User](public/screenshots/Edit_User.png)
+
+<!-- ###  Delete Record  
+(Add screenshot) -->
 
 ---
 
